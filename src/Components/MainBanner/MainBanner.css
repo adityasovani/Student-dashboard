@@ -1,0 +1,43 @@
+.main-banner {
+    height: 12rem;
+    /* flex-shrink: 0; */
+
+    border-radius: 1.5rem;
+    background: linear-gradient(99deg, #925FE2 53.12%, #DFCFF7 155.43%);
+    box-shadow: 8px 8px 48px 8px rgba(0, 0, 0, 0.08);
+    width: 100%;
+}
+
+.date {
+    color: rgba(255, 255, 255, 0.75);
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2.3rem;
+}
+
+.welcome-msg {
+    margin-top: 2rem;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.welcome-caption {
+    color: rgba(255, 255, 255, 0.75);
+    font-family: Poppins;
+    font-size: 0.8rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.banner-img {
+    margin-left: 3rem;
+    height: 12rem;
+}

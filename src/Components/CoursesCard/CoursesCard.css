@@ -1,0 +1,36 @@
+.course-card {
+    flex: 1 0 0;
+    align-self: stretch;
+
+    border-radius: 1.5rem;
+    background: #9C6FE44D;
+    box-shadow: 8px 8px 48px 8px rgba(0, 0, 0, 0.08);
+    padding: 0.5rem;
+}
+
+.course-name {
+    color: #925FE2;
+    font-family: Poppins;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.5rem;
+    /* 133.333% */
+}
+
+.view-course {
+    display: flex;
+    width: 6.7rem;
+    padding: 0.375rem 3rem;
+    justify-content: center;
+    align-items: center;
+    /* gap: 0.625rem; */
+    height: 2rem;
+
+    border-radius: 1.3625rem;
+    background: #925FE2;
+}
+
+.selected {
+    border: 3px solid #925FE2;
+}

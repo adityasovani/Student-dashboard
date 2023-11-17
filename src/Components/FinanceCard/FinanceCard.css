@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    padding: 29.713px 62.833px 29.287px 63.5px;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 0;
+    flex-direction: column;
+    white-space: nowrap;
+
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 8px 8px 48px 8px rgba(0, 0, 0, 0.08);
+    width: 13rem;
+    height: 12rem;
+}
+
+.selected {
+    border: 3px solid #925FE2;
+}
+
+.card-image {
+    max-width: 5.25169rem;
+    max-height: 5rem;
+}
+
+.amount {
+    color: #000;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.caption {
+    color: rgba(0, 0, 0, 0.50);
+    font-family: Poppins;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

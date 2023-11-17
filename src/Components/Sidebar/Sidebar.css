@@ -1,0 +1,43 @@
+.sidemenu-container {
+    height: 95vh;
+    margin-left: 8px;
+    width: 13.5625rem;
+    flex-shrink: 0;
+
+    border-radius: 1.5rem;
+    background: linear-gradient(0deg, #925FE2 80.26%, rgba(146, 95, 226, 0.00) 143.39%, #E2D4F7 143.39%);
+}
+
+.icon-box {
+    width: 6.5rem;
+    height: 6.5rem;
+    margin-top: 1.5rem;
+
+    border-radius: 2rem;
+    background: linear-gradient(180deg, #925FE2 0%, #7042C0 100%);
+}
+
+.gradIcon {
+    width: 4.3rem;
+    height: 4.9rem;
+}
+
+.menuItems {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 1.5rem;
+}
+
+.name {
+    margin-left: -15px;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 0.7rem;
+    font-style: normal;
+    font-weight: 600;
+    white-space: nowrap;
+}
