@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89a7ee86.css",
+    "main.js": "/static/js/main.f317ccc8.js",
+    "static/media/PC.svg": "/static/media/PC.844876e0b408f00a7adf7ac60c05297f.svg",
+    "static/media/student.png": "/static/media/student.c554f22cc1468e981eff.png",
+    "static/media/Noteandcoin.svg": "/static/media/Noteandcoin.572c768d350ee9481c833ebb19f13f78.svg",
+    "static/media/Fileandpen.svg": "/static/media/Fileandpen.2893a3a4e0e76a950bc9c9b194985a54.svg",
+    "static/media/DP3.png": "/static/media/DP3.5fa1cc3f765f9bc6cf05.png",
+    "static/media/DP1.png": "/static/media/DP1.fbe3e1a50a3b25b98471.png",
+    "static/media/DP2.png": "/static/media/DP2.ccaec9c8010b189b72cf.png",
+    "static/media/Charts.svg": "/static/media/Charts.893bca670f15deeb09acf448ba315930.svg",
+    "static/media/Barchart.svg": "/static/media/Barchart.71478660f2e7bab33219c6b9ac298728.svg",
+    "static/media/GraduationCap.svg": "/static/media/GraduationCap.ea9031876c8fce3df046d8862acf17ec.svg",
+    "static/media/Courses.svg": "/static/media/Courses.70d31e0fb0faf980a56eebef446ecfa4.svg",
+    "static/media/Schedule.svg": "/static/media/Schedule.84453dab6512e88d95bded42174e6214.svg",
+    "static/media/DropSemester.svg": "/static/media/DropSemester.2c0b815dc20eeba37660371e50ca3b50.svg",
+    "static/media/Payment.svg": "/static/media/Payment.e556fc5f4424c22af1fd3f57fb5017a6.svg",
+    "static/media/Notice.svg": "/static/media/Notice.43a202da3ea4cd2c27734ee95ccabcc5.svg",
+    "static/media/Pencil.svg": "/static/media/Pencil.669edfe2b1f50cd2386496cde1cb75a6.svg",
+    "static/media/DashboardSide.svg": "/static/media/DashboardSide.b33072ef82c080e5af61e92879bf8e46.svg",
+    "index.html": "/index.html",
+    "static/media/Result.svg": "/static/media/Result.6b26c4bf6b583684f39f47d4165ee05f.svg",
+    "main.89a7ee86.css.map": "/static/css/main.89a7ee86.css.map",
+    "main.f317ccc8.js.map": "/static/js/main.f317ccc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a7ee86.css",
+    "static/js/main.f317ccc8.js"
+  ]
+}
