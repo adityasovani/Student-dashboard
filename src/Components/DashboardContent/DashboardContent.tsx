@@ -39,9 +39,12 @@ const DashboardContent: React.FC = () => {
                                 </div>
                             </div>
                             <div className="col-12 mb-4">
-                                <span className="section-heading">
-                                    Enrolled Courses
-                                </span>
+                                <div className="d-flex justify-content-between">
+                                    <span className="section-heading">
+                                        Enrolled Courses
+                                    </span>
+                                    <span className='see-all' style={{ marginRight: 15 }}>see all</span>
+                                </div>
                                 <div className='d-flex flex-row' style={{ marginTop: '1.2rem', gap: '15px', }}>
                                     <CoursesCard selected={true} courseName='Object oriented programming' icon={PC} />
                                     <CoursesCard courseName='Fundamentals of database systems' icon={Charts} />
